@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janelle Antonio</h1>
-<h3 align="center">A passionate aspiring software developer</h3>
+<h3 align="center">A passionate software developer</h3>
 
 - 🌱 I'm now learning programming in-depth, **I spend my extra hours taking free courses and other coding content's in Youtube.**
 
